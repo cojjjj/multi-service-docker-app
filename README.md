@@ -45,7 +45,7 @@ Nginx
 
 ## Project URL
 
-https://github.com/cojjjjj/multi-service-docker-app
+https://roadmap.sh/projects/multiservice-docker
 
 ## Concepts Demonstrated
 
